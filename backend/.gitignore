@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Env & local config
+.env
+.env.*
+.envrc
+
+# OS/editor
+.DS_Store
+.vscode/
